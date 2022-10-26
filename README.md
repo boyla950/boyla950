@@ -36,7 +36,9 @@ St. Joseph's Catholic Academy (2016 - 2018)
  
  ## Technologies
 <center><div>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="96" title="PyTorch"/>
     <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
+    <img src="https://scipy.org/images/logo.svg" width="96" title="SciPy"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="96" title="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="96" title="MongoDB & Mongoose"/>
     <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" width="96" title="NumPy"/>
