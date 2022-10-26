@@ -33,7 +33,9 @@ St. Joseph's Catholic Academy (2016 - 2018)
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React.js"/>
-    <img src="https://ionicframework.com/img/meta/logo.png" width="48" title="Ionic (React)"/>
+ </div></center>
+ 
+<center><div>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB & Mongoose"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
     <img src="https://img.icons8.com/fluency/48/000000/c.png" title="C"/>
