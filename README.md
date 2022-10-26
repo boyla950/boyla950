@@ -25,23 +25,24 @@ St. Joseph's Catholic Academy (2016 - 2018)
  - Maths - A
  - Computer Science - A
 
-## Technologies
+## Programming Languages
 <center><div>
-    <img src="https://img.icons8.com/color/96/000000/python.png" title="Python"/>
+    <img src="https://img.icons8.com/color/96/000000/python.png" width="96" title="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="96" title="JavaScript"/>
+    <img src="https://img.icons8.com/fluency/48/000000/c.png" width="96" title="C"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="96" title="C++"/>
     <img src="https://img.icons8.com/color/344/haskell.png" width="96" title="Haskell"/>
-    <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React.js"/>
  </div></center>
  
+ ## Technologies
 <center><div>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB & Mongoose"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-    <img src="https://img.icons8.com/fluency/48/000000/c.png" title="C"/>
-    <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" width="48" title="NumPy"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-    <img src="https://img.icons8.com/color/48/000000/latex.png" title="LaTeX"/>
+    <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="96" title="Node.js"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="96" title="React.js"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="96" title="MongoDB & Mongoose"/>
+    <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" width="96" title="NumPy"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" width="96" title="Git"/>
+    <img src="https://img.icons8.com/color/48/000000/latex.png" width="96" title="LaTeX"/>
 </div></center>
 
 
