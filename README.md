@@ -32,7 +32,7 @@ St. Joseph's Catholic Academy (2016 - 2018)
     <img src="https://img.icons8.com/fluency/48/000000/c.png" width="96" title="C"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="96" title="C++"/>
     <img src="https://img.icons8.com/color/344/haskell.png" width="96" title="Haskell"/>
-    <img src=" https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" width="96" title="STATA"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" width="96" title="STATA"/>
 
  </div></center>
  
