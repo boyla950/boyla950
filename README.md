@@ -12,7 +12,7 @@ Newcastle University (2022 - Present)
 
  - MSc Finance (PGT) - In Progress...
 
-Modules: *Financial Derivatives, Financial Theory, Introductory Econometrics, Applied Econometrics, International Finance, Corporate Finance, Risk   Modelling, Introduction to Financial Reporting, Research Methods for Economics & Finance.*
+**Modules:** *Financial Derivatives, Financial Theory, Introductory Econometrics, Applied Econometrics, International Finance, Corporate Finance, Risk   Modelling, Introduction to Financial Reporting, Research Methods for Economics & Finance.*
 
 ### Bachelor's Degree
 Durham Univesity (2019 - 2022)
@@ -30,9 +30,9 @@ Durham Univesity (2019 - 2022)
 ### A Level
 St. Joseph's Catholic Academy (2016 - 2018)
 
- - Physics - A
- - Maths - A
- - Computer Science - A
+ - **Physics** - A
+ - **Maths** - A
+ - **Computer Science** - A
 
 ## Programming Languages
 <center><div>
