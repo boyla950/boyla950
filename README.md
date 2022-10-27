@@ -37,6 +37,7 @@ St. Joseph's Catholic Academy (2016 - 2018)
 ## Programming Languages
 <center><div>
     <img src="https://img.icons8.com/color/96/000000/python.png" width="96" title="Python"/>
+    <img src="https://www.r-project.org/Rlogo.png" width="96" title="R Studio"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="96" title="JavaScript"/>
     <img src="https://img.icons8.com/fluency/48/000000/c.png" width="96" title="C"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="96" title="C++"/>
