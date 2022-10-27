@@ -23,9 +23,9 @@ Dissertation: *Eye in the Sky: Object Detection and Tracking via Drone Imagery u
 
 3rd Year Modules: *Deep Learning and Reinforcement Learning, Recommender Systems, Parallel Scientific Computing, Bioinformatics, Algorithmic Game Theory, Computer Vision, Human-AI Interaction Design, Project Management.*
 
-2nd Year Modules: *Networks and Databases, Data Science, Artificial Intelligence, Programming Paradigms, Software Engineering, Theory of Computation*
+2nd Year Modules: *Networks and Databases, Data Science, Artificial Intelligence, Programming Paradigms, Software Engineering, Theory of Computation.*
 
-1st Year Modules: *Mathematics for Computer Science, Algorithms and Data Structures, Computational Thinking, Computer Systems, Programming, New Venture Creation (elective module)*.
+1st Year Modules: *Mathematics for Computer Science, Algorithms and Data Structures, Computational Thinking, Computer Systems, Programming, New Venture Creation (elective module).*
 
 ### A Level
 St. Joseph's Catholic Academy (2016 - 2018)
