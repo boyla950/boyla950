@@ -60,7 +60,8 @@ St. Joseph's Catholic Academy (2016 - 2018)
 
 
 ## Hobbies
- - Football (NUFC)
- - Poker
- - Gym
- - Muay Thai
+ - Guitarist 🎸
+ - Football (NUFC) ⚽️
+ - Poker ♠️
+ - Gym 🏋🏻
+ - Muay Thai 🥊
