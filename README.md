@@ -12,6 +12,8 @@ Newcastle University (2022 - Present)
 
  - MSc Finance (PGT) - In Progress...
 
+**Dissertation (proposed):** *Forecasting Market Volatility using Artificial Neural Networks*
+
 **Modules:** *Financial Derivatives, Financial Theory, Introductory Econometrics, Applied Econometrics, International Finance, Corporate Finance, Risk   Modelling, Introduction to Financial Reporting, Research Methods for Economics & Finance.*
 
 ### Bachelor's Degree
@@ -19,7 +21,7 @@ Durham Univesity (2019 - 2022)
 
  - BSc Computer Science - First Class Honours
 
-**Dissertation:** *Eye in the Sky: Object Detection and Tracking via Drone Imagery using Convolutional Neural Networks* (see [here](https://github.com/boyla950/eye-in-the-sky))
+**Dissertation:** *Eye in the Sky: Object Detection and Tracking via Drone Imagery using Convolutional Neural Networks* (Final Mark: 77%) (see [here](https://github.com/boyla950/eye-in-the-sky))
 
 **3rd Year Modules:** *Deep Learning and Reinforcement Learning, Recommender Systems, Parallel Scientific Computing, Bioinformatics, Algorithmic Game Theory, Computer Vision, Human-AI Interaction Design, Project Management.*
 
