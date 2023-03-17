@@ -14,7 +14,7 @@ Newcastle University (2022 - Present)
 
 **Dissertation (proposed):** *Forecasting Market Volatility using Artificial Neural Networks*
 
-**Modules:** *Financial Derivatives, Financial Theory, Introductory Econometrics, Applied Econometrics, International Finance, Corporate Finance, Risk   Modelling, Introduction to Financial Reporting, Research Methods for Economics & Finance.*
+**Modules:** *Financial Derivatives, Financial Theory, Introductory Econometrics, Applied Econometrics, International Finance, Corporate Finance, Risk   Modelling, Introduction to Financial Reporting, Behavioural Finance, Research Methods for Economics & Finance.*
 
 ### Bachelor's Degree
 Durham Univesity (2019 - 2022)
