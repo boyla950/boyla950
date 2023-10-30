@@ -11,11 +11,11 @@ I am in the process of applying for graduate roles, looking particularly for rol
 
 ## Education
 ### Master's Degree
-Newcastle University (2022 - Present)
+Newcastle University (2022 - 2023)
 
- - MSc Finance (PGT) - In Progress...
+ - MSc Finance (PGT) - Pass with Distinction
 
-**Dissertation (proposed):** *Forecasting Market Volatility using Artificial Neural Networks*
+**Dissertation (proposed):** *Predicting the Pound: Forecasting Volatility in Foeign Exchange Markets* (Final Mark: 82%)
 
 **Modules:** *Financial Derivatives, Financial Theory, Introductory Econometrics, Applied Econometrics, International Finance, Corporate Finance, Risk   Modelling, Introduction to Financial Reporting, Behavioural Finance, Research Methods for Economics & Finance.*
 
