@@ -21,6 +21,8 @@ Newcastle University (2022 - 2023)
 
 As part of this course, I also completed 2-week international exchange program at **KEDGE Business School (Marseille Campus)** undertaking a tailor-made course on *Sustainability & Entrepreneurship*.
 
+I was also the recipient of a Business Excellence Scholarship.
+
 ### Bachelor's Degree
 Durham Univesity (2019 - 2022)
 
