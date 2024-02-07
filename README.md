@@ -19,7 +19,7 @@ Newcastle University (2022 - 2023)
 
 **Modules:** *Financial Derivatives, Financial Theory, Introductory Econometrics, Applied Econometrics, International Finance, Corporate Finance, Risk   Modelling, Introduction to Financial Reporting, Behavioural Finance, Research Methods for Economics & Finance.*
 
-As part of studies, I also completed 2-week international exchange program at **KEDGE Business School (Marseille Campus)** undertaking a tailor-made course on *Sustainability & Entrepreneurship*.
+As part of this course, I also completed 2-week international exchange program at **KEDGE Business School (Marseille Campus)** undertaking a tailor-made course on *Sustainability & Entrepreneurship*.
 
 ### Bachelor's Degree
 Durham Univesity (2019 - 2022)
