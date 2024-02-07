@@ -3,11 +3,11 @@
 Download CV [here](https://drive.google.com/file/d/1Bbt_PTHyUqK7Xp9aDgyE0N761R41Qneh/view?usp=sharing)
 
 ## About Me
-Hi, I'm Matthew, a programmer and finance student from the North East of England. I have recently graduated from Durham University (where I studied computer science) and am currently waiting to graduate from my master's degree in finance at Newcastle University!
+Hi, I'm Matthew, a programmer and recent finance graduate from the North East of England. I currently hold a first-class undergraduate degree from Durham University (where I studied computer science) and have just graduated from my master's degree in finance at Newcastle University!
 
-During my time as an undergraduate, I have found a passion for machine learning and the greater field of data science. I am also very interested in financial markets and am looking to find opportunities to further explore these two fields and combine them.
+During my time as an undergraduate, I have found a passion for machine learning and the greater field of data science. I am also very interested in financial markets and am looking to find opportunities to further explore these two fields and combine them, particularly in the realm of risk management.
 
-I am in the process of applying for graduate roles, looking particularly for roles in machine learning, software development or data analysis, ideally within the FinTech industries.
+I am in the process of applying for graduate opportunities, looking particularly for roles in machine learning, software development or data analysis, ideally within the financial services industries.
 
 ## Education
 ### Master's Degree
@@ -71,4 +71,3 @@ St. Joseph's Catholic Academy (2016 - 2018)
  - Football (NUFC) ⚽️
  - Poker ♠️
  - Gym 🏋🏻
- - Muay Thai 🥊
