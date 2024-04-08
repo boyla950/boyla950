@@ -7,7 +7,7 @@ Hi, I'm Matthew, a programmer and recent finance graduate from the North East of
 
 During my time as an undergraduate, I have found a passion for machine learning and the greater field of data science. I am also very interested in financial markets and am always looking to find opportunities to further explore these two fields and combine them, particularly in the realm of risk management.
 
-I currently work as a Model Validation Specialist in teh Risk Group at Virgin Money!
+I currently work as a Model Validation Specialist in the Risk Group at Virgin Money!
 
 ## Education
 ### Master's Degree
